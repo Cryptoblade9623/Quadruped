@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0.1u","C_Disc_D3.0mm_W1.6mm_P2.50mm",139.900000,-70.525000,90.000000,top
+"C2","0.1u","C_Disc_D3.0mm_W1.6mm_P2.50mm",142.050000,-70.525000,90.000000,top
+"J1","Conn_01x06_Pin","PinHeader_1x06_P2.54mm_Vertical",149.891000,-64.476760,-90.000000,top
+"J6","Conn_01x06_Pin","PinHeader_1x06_P2.54mm_Vertical",149.891000,-122.896760,-90.000000,top
